@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmatheus&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmatheus" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsmatheus&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
 
 <!--
 **gsmatheus/gsmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

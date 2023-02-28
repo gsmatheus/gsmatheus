@@ -1,4 +1,9 @@
-<div align="center"/>
+## 👋
+  
+<img align="right" width="300" src="https://media.tenor.com/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif" />
 
-[![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=gsmatheus&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs)](https://github.com/gsmatheus/)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsmatheus&color=green" alt="Profile views" /> </p>
+<p align="left"> 
+  Olá, sou um desenvolvedor web apaixonado por tecnologia e soluções inovadoras. Com vasta experiência em desenvolvimento de sistemas e aplicativos, tenho conhecimentos em diversas tecnologias. Meu objetivo é fornecer soluções criativas e eficientes para atender às necessidades dos meus clientes, sempre focando na melhor experiência do usuário e na acessibilidade.
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,vuejs,mysql,redis,linux,docker&theme=light)](https://skillicons.dev)

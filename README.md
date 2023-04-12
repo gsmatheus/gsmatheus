@@ -14,6 +14,7 @@
   </a>
 </p>
 
+<!--
 <h3>Open source projects</h3>
 
 <table>
@@ -36,3 +37,4 @@
     </tr>
   </tbody>
 </table>
+-->
